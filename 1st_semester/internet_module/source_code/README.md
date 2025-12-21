@@ -1,0 +1,1 @@
+For more details visit: https://github.com/kispeterzsm/aau-sw7-iot
